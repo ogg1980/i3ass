@@ -1,7 +1,7 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 __name="i3Kornhe"
-__version="0.018"
+__version="0.019"
 __author="budRich"
 __contact='robstenklippa@gmail.com'
 __created="2017-12-12"

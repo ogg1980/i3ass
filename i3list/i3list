@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 NAME="i3list"
-VERSION="0.042"
+VERSION="0.043"
 AUTHOR="budRich"
 CONTACT='robstenklippa@gmail.com'
 CREATED="2017-10-06"

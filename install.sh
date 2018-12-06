@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 NAME="install.sh"
 VERSION="0.001"
@@ -91,7 +91,7 @@ interactive_installer(){
       ((INT_SELECT = 2)) && toinstall="install-doc"
 
       echo
-      sudo make PREFIX="${TARGET_DIRECTORY/~/$HOME}" "$toinstall"
+      sudo make PREFIX="${TARGET_DIRECTORY}" "$toinstall"
       echo
     ;;
 

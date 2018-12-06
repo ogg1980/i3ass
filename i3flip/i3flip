@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 __name="i3flip"
-__version="0.009"
+__version="0.010"
 __author="budRich"
 __contact='robstenklippa@gmail.com'
 __created="2018-01-03"

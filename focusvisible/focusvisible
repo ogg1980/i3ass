@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 __name="focusvisible"
-__version="0.003"
+__version="0.004"
 __author="budRich"
 __contact='robstenklippa@gmail.com'
 __created="2018-06-06"

@@ -1,7 +1,7 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 __name="i3get"
-__version="0.302"
+__version="0.303"
 __author="budRich"
 __contact='robstenklippa@gmail.com'
 __created="2017-03-08"
